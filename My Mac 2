@@ -1,1 +1,10 @@
+let myName = 'David';
+const MYAGE = 17;
 
+let introduction = 'Hi, my name is $(name), I am $(age)!';
+
+let myInformation = {
+  myAge = 17;
+  myCity = 'Union City';
+  myBirthDay = 'Ferbruary 3rd';
+ }
