@@ -1,0 +1,10 @@
+let foodItems = ["Pizza, Burgers, Tenders"];
+const MENU = "On our meny we have ${foodItems)!";
+let itemsOnMenu = 4; 
+let doYouHavePasta = False;
+let questions = {
+  whatFoodsDOYouHave = ["Pizza, Burgers, Tenders"],
+  menuItems = 4,
+  pasta = false
+}
+  
